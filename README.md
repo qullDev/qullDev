@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/qullDev/qullDev/output/snake.svg" alt="Snake animation" />
+
 
 ###
