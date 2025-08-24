@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rqull.rqull&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=qullDev.qullDev&"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Rizqullah from Indonesia<br><br>- 🔭 I’m working as Backend<br>- 📚 I'm currently learning GO and Nextjs<br>- ⚡ In my free time I am play Dark Soul</p>
+<p align="left">c</p>
 
 ###
 
@@ -64,3 +64,14 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qullDev/qullDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qullDev/qullDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qullDev/qullDev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
