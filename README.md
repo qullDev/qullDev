@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Rizqullah and I'm from Indonesia</p>
+<p align="left">I am still in college, currently I am in my 5th semester</p>
 
 ###
 
