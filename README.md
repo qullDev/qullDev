@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning GO<br>🎯 Goals: Become a GOD</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning GO<br>🎯 Goals: Become a good person</p>
 
 ###
 
